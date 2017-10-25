@@ -1,0 +1,8 @@
+envirnment=prod
+browser=chrome
+ProdUrl=https://www.amazon.com/
+StageUrl=https://www.yahoo.com/
+homePageTitle=Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+dBUrl=jdbc:mysql://localhost:3306/students
+uname=root
+pass=r3332199

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AccountSuite]">
+  <test name="AccountCreateTest(failed)">
+    <classes>
+      <class name="tests.AmazonCreateAccounTest">
+        <methods>
+          <include name="creatAcc"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- tests.AmazonCreateAccounTest -->
+    </classes>
+  </test> <!-- AccountCreateTest(failed) -->
+</suite> <!-- Failed suite [AccountSuite] -->
